@@ -10,7 +10,7 @@
 			],
 			"sinks": [],
 			"transformations": [],
-			"script": "source(allowSchemaDrift: true,\n\tvalidateSchema: false) ~> srcdatos"
+			"script": "source(allowSchemaDrift: true,\n\tvalidateSchema: false) ~> srcdatosorigen"
 		}
 	}
 }
