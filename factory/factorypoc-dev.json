@@ -1,0 +1,9 @@
+{
+	"name": "factorypoc-dev",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d829494c-41c4-469e-b849-4cdf1a47ee70",
+		"tenantId": "9ba640db-d302-4cbe-a6f0-34794cc54713"
+	}
+}
